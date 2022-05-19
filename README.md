@@ -1,4 +1,4 @@
-### Olá, meu nome é Lemuel Olivera e eu sou Desenvolvedor C# 👋
+### Olá, meu nome é Lemuel Olivera. Sou Desenvolvedor C# e Engenheiro👋
 </br>
 <div align="center">
   <a href="https://github.com/lemuelpaz">
